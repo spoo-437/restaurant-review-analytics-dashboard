@@ -15,7 +15,7 @@ st.title("🍽️ AI Restaurant Review Analytics Dashboard")
 # -----------------------------
 # LOAD DATA
 # -----------------------------
-df = pd.read_csv(synthetic_restaurant_reviews_500.csv)
+df = pd.read_csv("synthetic_restaurant_reviews_500.csv")
 
 # -----------------------------
 # SENTIMENT FUNCTION
