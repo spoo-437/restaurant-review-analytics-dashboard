@@ -1,0 +1,501 @@
+Restaurant_Name,City,Cuisine,Cost_for_Two,Online_Delivery,Table_Booking,Rating,Votes,Review
+Flavour Hub,Mumbai,Biryani,1921,No,Yes,2.5,239,Average taste and normal service.
+Curry House,Hyderabad,Fast Food,394,Yes,Yes,1.9,315,"Terrible experience, will not come again."
+Spice Garden,Pune,Multi-cuisine,1098,No,No,2.2,135,"Terrible experience, will not come again."
+Curry House,Chennai,Italian,1540,No,Yes,2.5,243,Decent place for casual dining.
+Street Feast,Pune,Chinese,1197,No,No,4.9,483,Loved the ambience and the taste was fantastic.
+Tasty Treats,Delhi,Desserts,1596,Yes,No,2.0,448,Very bad service and food was cold.
+Food Palace,Chennai,Chinese,1384,Yes,Yes,2.6,228,Decent place for casual dining.
+Street Feast,Pune,Multi-cuisine,548,No,No,4.4,106,Staff was friendly and food quality was top notch.
+Golden Spoon,Bangalore,Biryani,1356,No,No,2.0,390,Not worth the price at all.
+Food Palace,Mumbai,Multi-cuisine,516,Yes,No,3.2,124,Average taste and normal service.
+Flavour Hub,Mumbai,Chinese,1847,Yes,No,3.4,405,Decent place for casual dining.
+Happy Meals,Delhi,Desserts,1738,No,Yes,1.9,409,Very bad service and food was cold.
+Curry House,Hyderabad,Desserts,1327,No,No,3.8,65,Nothing special but not bad either.
+Happy Meals,Mumbai,North Indian,1023,Yes,No,4.8,273,The food was amazing and service was excellent.
+Royal Dine,Bangalore,Desserts,1086,No,No,4.4,149,Loved the ambience and the taste was fantastic.
+Street Feast,Mumbai,Fast Food,1273,No,No,1.5,156,Food quality was disappointing.
+Happy Meals,Chennai,North Indian,540,No,Yes,3.6,80,It was an okay experience.
+Spice Garden,Mumbai,South Indian,413,Yes,Yes,2.7,490,Average taste and normal service.
+Tasty Treats,Hyderabad,Italian,437,Yes,Yes,3.9,104,It was an okay experience.
+Spice Garden,Delhi,Chinese,1224,No,Yes,3.5,330,Average taste and normal service.
+Happy Meals,Mumbai,Fast Food,1260,No,No,4.2,401,"Highly recommended, great experience overall."
+Street Feast,Pune,Biryani,1440,Yes,No,1.7,221,Very bad service and food was cold.
+Tasty Treats,Bangalore,Chinese,1325,Yes,No,2.3,72,Very bad service and food was cold.
+Flavour Hub,Pune,Fast Food,313,Yes,Yes,4.6,381,"Worth the money, will visit again."
+Food Palace,Hyderabad,Desserts,1159,Yes,Yes,4.4,468,Loved the ambience and the taste was fantastic.
+Happy Meals,Bangalore,Desserts,904,Yes,No,3.7,230,Average taste and normal service.
+Spice Garden,Pune,Fast Food,921,Yes,No,3.2,472,It was an okay experience.
+Street Feast,Chennai,Desserts,1506,Yes,No,4.4,218,Staff was friendly and food quality was top notch.
+Happy Meals,Chennai,Italian,403,No,No,2.1,196,"Terrible experience, will not come again."
+Urban Bites,Pune,Italian,1018,No,Yes,1.6,379,"Terrible experience, will not come again."
+Tasty Treats,Pune,Fast Food,714,Yes,No,1.8,395,"Terrible experience, will not come again."
+Flavour Hub,Bangalore,South Indian,700,No,No,2.7,199,"Food was okay, service was average."
+Street Feast,Hyderabad,Fast Food,406,Yes,Yes,3.4,322,"Food was okay, service was average."
+Happy Meals,Bangalore,Desserts,711,No,Yes,2.3,248,Food quality was disappointing.
+Flavour Hub,Chennai,Multi-cuisine,1670,No,Yes,4.1,58,"Highly recommended, great experience overall."
+Food Palace,Chennai,Fast Food,201,No,No,3.8,233,"Food was okay, service was average."
+Street Feast,Hyderabad,Multi-cuisine,1000,No,Yes,3.6,177,Average taste and normal service.
+Curry House,Mumbai,Biryani,561,No,No,2.9,88,Decent place for casual dining.
+Golden Spoon,Mumbai,Desserts,767,No,No,3.8,386,"Food was okay, service was average."
+Happy Meals,Hyderabad,Multi-cuisine,1794,Yes,No,3.8,99,"Food was okay, service was average."
+Golden Spoon,Hyderabad,Chinese,1727,Yes,No,1.9,293,Not worth the price at all.
+Curry House,Hyderabad,North Indian,1387,Yes,No,2.8,170,Nothing special but not bad either.
+Spice Garden,Pune,Chinese,373,Yes,Yes,4.8,144,"Highly recommended, great experience overall."
+Tasty Treats,Pune,Desserts,1826,No,No,2.2,297,"Terrible experience, will not come again."
+Spice Garden,Bangalore,North Indian,1503,Yes,No,5.0,25,"Worth the money, will visit again."
+Curry House,Pune,Chinese,938,Yes,No,2.4,183,Very bad service and food was cold.
+Flavour Hub,Pune,Biryani,601,Yes,No,4.6,25,"Highly recommended, great experience overall."
+Curry House,Delhi,Chinese,666,No,No,4.7,381,"Worth the money, will visit again."
+Spice Garden,Bangalore,Multi-cuisine,937,Yes,Yes,3.2,385,Nothing special but not bad either.
+Street Feast,Mumbai,Fast Food,947,No,Yes,3.0,479,"Food was okay, service was average."
+Food Palace,Delhi,Fast Food,1136,Yes,No,4.3,55,"Highly recommended, great experience overall."
+Curry House,Mumbai,Desserts,940,No,No,4.7,326,Staff was friendly and food quality was top notch.
+Food Palace,Chennai,Chinese,368,Yes,Yes,4.3,74,"Worth the money, will visit again."
+Tasty Treats,Bangalore,Biryani,734,No,No,4.2,97,"Highly recommended, great experience overall."
+Golden Spoon,Mumbai,Biryani,1864,Yes,Yes,4.0,473,"Highly recommended, great experience overall."
+Street Feast,Bangalore,Chinese,1504,No,Yes,2.5,252,Decent place for casual dining.
+Street Feast,Delhi,Biryani,1154,Yes,No,3.7,196,Average taste and normal service.
+Food Palace,Hyderabad,Multi-cuisine,1541,Yes,No,2.5,174,Average taste and normal service.
+Urban Bites,Pune,Italian,1570,No,Yes,2.6,409,"Food was okay, service was average."
+Urban Bites,Delhi,Biryani,1144,No,No,2.5,131,It was an okay experience.
+Food Palace,Pune,South Indian,1763,Yes,Yes,1.9,396,Food quality was disappointing.
+Urban Bites,Delhi,Biryani,259,Yes,No,1.5,109,Very bad service and food was cold.
+Spice Garden,Delhi,Fast Food,1553,Yes,No,2.5,283,"Food was okay, service was average."
+Golden Spoon,Chennai,Chinese,1900,No,No,2.8,222,It was an okay experience.
+Street Feast,Mumbai,North Indian,1071,No,No,2.5,117,It was an okay experience.
+Curry House,Delhi,Multi-cuisine,511,Yes,Yes,3.3,199,It was an okay experience.
+Flavour Hub,Mumbai,Desserts,1169,Yes,Yes,4.5,197,The food was amazing and service was excellent.
+Happy Meals,Pune,Desserts,1491,Yes,Yes,4.5,248,Staff was friendly and food quality was top notch.
+Golden Spoon,Mumbai,Chinese,630,No,No,3.6,355,It was an okay experience.
+Street Feast,Delhi,Multi-cuisine,383,No,Yes,2.9,256,Decent place for casual dining.
+Urban Bites,Bangalore,Multi-cuisine,1181,Yes,No,3.3,182,It was an okay experience.
+Curry House,Pune,Chinese,1162,Yes,Yes,3.2,262,Nothing special but not bad either.
+Happy Meals,Delhi,Italian,1634,Yes,No,4.6,477,Staff was friendly and food quality was top notch.
+Royal Dine,Mumbai,North Indian,908,No,Yes,4.6,333,Loved the ambience and the taste was fantastic.
+Tasty Treats,Chennai,Biryani,681,Yes,No,3.0,80,It was an okay experience.
+Curry House,Mumbai,Biryani,1903,Yes,No,1.7,324,Very bad service and food was cold.
+Tasty Treats,Hyderabad,Fast Food,502,Yes,Yes,3.5,70,Decent place for casual dining.
+Spice Garden,Mumbai,Chinese,475,Yes,No,4.2,198,"Highly recommended, great experience overall."
+Spice Garden,Mumbai,North Indian,1203,Yes,Yes,3.3,243,Average taste and normal service.
+Food Palace,Delhi,Biryani,322,No,Yes,3.3,493,It was an okay experience.
+Street Feast,Hyderabad,South Indian,1555,No,Yes,3.0,469,Nothing special but not bad either.
+Street Feast,Chennai,Italian,1765,Yes,Yes,1.5,152,Very bad service and food was cold.
+Food Palace,Pune,North Indian,412,No,Yes,4.2,231,The food was amazing and service was excellent.
+Food Palace,Delhi,South Indian,1468,Yes,Yes,3.8,323,Decent place for casual dining.
+Spice Garden,Hyderabad,Biryani,845,No,No,3.7,242,It was an okay experience.
+Tasty Treats,Delhi,Desserts,1599,Yes,No,2.9,113,Nothing special but not bad either.
+Street Feast,Hyderabad,Biryani,700,Yes,Yes,2.1,484,Staff was rude and slow.
+Tasty Treats,Bangalore,Chinese,628,Yes,No,3.1,135,Decent place for casual dining.
+Flavour Hub,Hyderabad,South Indian,1305,Yes,Yes,1.9,171,Staff was rude and slow.
+Curry House,Chennai,Biryani,1258,Yes,Yes,3.5,436,Nothing special but not bad either.
+Happy Meals,Delhi,Chinese,1423,Yes,Yes,1.5,232,Staff was rude and slow.
+Happy Meals,Pune,Desserts,1276,No,Yes,2.8,435,Average taste and normal service.
+Urban Bites,Delhi,Desserts,1960,No,No,3.2,17,"Food was okay, service was average."
+Curry House,Pune,Biryani,1138,Yes,No,3.8,430,Average taste and normal service.
+Food Palace,Hyderabad,Multi-cuisine,1665,No,No,2.7,423,Average taste and normal service.
+Curry House,Mumbai,Desserts,1695,Yes,No,3.7,448,"Food was okay, service was average."
+Spice Garden,Delhi,Italian,1706,No,No,4.6,450,The food was amazing and service was excellent.
+Tasty Treats,Hyderabad,South Indian,828,Yes,No,1.6,147,Food quality was disappointing.
+Urban Bites,Hyderabad,Italian,525,No,Yes,2.6,432,"Food was okay, service was average."
+Urban Bites,Pune,Chinese,572,Yes,No,4.9,469,"Worth the money, will visit again."
+Urban Bites,Bangalore,Chinese,455,Yes,No,4.5,19,The food was amazing and service was excellent.
+Food Palace,Bangalore,Desserts,903,No,Yes,3.5,356,It was an okay experience.
+Urban Bites,Chennai,Italian,881,No,No,4.4,419,Staff was friendly and food quality was top notch.
+Golden Spoon,Delhi,South Indian,1192,No,Yes,2.7,284,"Food was okay, service was average."
+Curry House,Chennai,Multi-cuisine,363,No,Yes,2.6,75,Average taste and normal service.
+Royal Dine,Mumbai,Biryani,1298,Yes,Yes,1.8,404,Food quality was disappointing.
+Golden Spoon,Bangalore,Desserts,966,No,Yes,3.0,18,It was an okay experience.
+Curry House,Pune,Fast Food,1919,Yes,Yes,3.1,35,"Food was okay, service was average."
+Urban Bites,Chennai,Chinese,268,No,No,2.3,436,Food quality was disappointing.
+Curry House,Chennai,Biryani,349,No,Yes,4.7,176,The food was amazing and service was excellent.
+Urban Bites,Pune,Desserts,1273,Yes,Yes,3.1,316,Nothing special but not bad either.
+Urban Bites,Bangalore,North Indian,222,No,No,1.7,76,Food quality was disappointing.
+Flavour Hub,Delhi,Biryani,556,Yes,Yes,4.0,254,Loved the ambience and the taste was fantastic.
+Street Feast,Delhi,Italian,1465,Yes,Yes,3.3,366,It was an okay experience.
+Flavour Hub,Chennai,Desserts,1428,No,No,1.6,472,Not worth the price at all.
+Golden Spoon,Bangalore,Fast Food,927,Yes,Yes,3.8,496,"Food was okay, service was average."
+Street Feast,Bangalore,Biryani,1185,Yes,Yes,2.0,81,Not worth the price at all.
+Flavour Hub,Bangalore,Italian,1251,Yes,Yes,2.1,438,Staff was rude and slow.
+Golden Spoon,Mumbai,Italian,687,No,Yes,1.7,250,Staff was rude and slow.
+Curry House,Mumbai,North Indian,228,No,No,3.7,46,Average taste and normal service.
+Tasty Treats,Bangalore,Biryani,1427,Yes,No,2.5,411,Average taste and normal service.
+Royal Dine,Mumbai,North Indian,522,No,No,2.4,75,"Terrible experience, will not come again."
+Golden Spoon,Mumbai,Desserts,1295,No,No,4.8,153,"Highly recommended, great experience overall."
+Tasty Treats,Delhi,Italian,1837,Yes,No,3.2,437,It was an okay experience.
+Street Feast,Mumbai,North Indian,721,No,No,2.6,250,Average taste and normal service.
+Tasty Treats,Pune,Chinese,1527,No,No,2.1,62,Staff was rude and slow.
+Royal Dine,Pune,South Indian,1371,No,Yes,4.0,146,"Worth the money, will visit again."
+Street Feast,Chennai,South Indian,833,Yes,Yes,1.6,197,Very bad service and food was cold.
+Flavour Hub,Pune,Italian,343,Yes,No,5.0,90,The food was amazing and service was excellent.
+Street Feast,Delhi,Desserts,871,No,Yes,4.8,311,"Worth the money, will visit again."
+Happy Meals,Bangalore,Multi-cuisine,1132,Yes,No,1.7,464,Very bad service and food was cold.
+Spice Garden,Pune,Biryani,387,Yes,No,4.0,238,The food was amazing and service was excellent.
+Happy Meals,Bangalore,South Indian,288,Yes,No,4.9,288,Loved the ambience and the taste was fantastic.
+Flavour Hub,Bangalore,Italian,1122,Yes,Yes,2.1,485,Very bad service and food was cold.
+Golden Spoon,Mumbai,Desserts,937,No,No,2.6,468,"Food was okay, service was average."
+Happy Meals,Chennai,Desserts,1484,No,No,2.5,194,"Food was okay, service was average."
+Happy Meals,Delhi,Chinese,1956,Yes,Yes,1.7,201,Staff was rude and slow.
+Tasty Treats,Delhi,Multi-cuisine,983,Yes,Yes,1.9,16,Food quality was disappointing.
+Food Palace,Pune,Fast Food,1294,No,Yes,1.7,261,"Terrible experience, will not come again."
+Royal Dine,Hyderabad,Italian,742,No,Yes,2.6,386,"Food was okay, service was average."
+Golden Spoon,Hyderabad,Chinese,1182,Yes,No,4.3,394,The food was amazing and service was excellent.
+Curry House,Mumbai,Biryani,773,No,Yes,2.3,15,"Terrible experience, will not come again."
+Tasty Treats,Hyderabad,Desserts,1186,No,Yes,4.1,328,Loved the ambience and the taste was fantastic.
+Happy Meals,Pune,South Indian,1280,No,Yes,4.4,100,"Highly recommended, great experience overall."
+Happy Meals,Delhi,Biryani,1153,No,No,1.6,452,Not worth the price at all.
+Golden Spoon,Bangalore,Italian,331,Yes,No,2.0,97,"Terrible experience, will not come again."
+Royal Dine,Bangalore,Fast Food,679,Yes,Yes,4.0,187,Staff was friendly and food quality was top notch.
+Urban Bites,Delhi,Multi-cuisine,760,Yes,Yes,4.0,213,Staff was friendly and food quality was top notch.
+Street Feast,Pune,Biryani,1419,No,No,2.1,335,Food quality was disappointing.
+Flavour Hub,Hyderabad,Biryani,874,No,No,3.4,56,Decent place for casual dining.
+Tasty Treats,Mumbai,South Indian,1989,Yes,No,2.3,468,"Terrible experience, will not come again."
+Tasty Treats,Delhi,Biryani,1383,Yes,No,2.9,43,Average taste and normal service.
+Urban Bites,Delhi,Biryani,947,Yes,No,3.2,442,It was an okay experience.
+Flavour Hub,Bangalore,Fast Food,1621,Yes,No,4.9,123,Staff was friendly and food quality was top notch.
+Curry House,Hyderabad,Biryani,366,Yes,Yes,3.4,101,Average taste and normal service.
+Happy Meals,Mumbai,Desserts,1906,No,No,3.1,489,It was an okay experience.
+Curry House,Delhi,Desserts,1023,No,No,3.6,127,Average taste and normal service.
+Happy Meals,Mumbai,Italian,930,No,Yes,4.2,440,"Highly recommended, great experience overall."
+Curry House,Delhi,Desserts,292,Yes,No,3.4,66,Decent place for casual dining.
+Curry House,Bangalore,Multi-cuisine,405,No,Yes,3.5,123,Decent place for casual dining.
+Golden Spoon,Chennai,North Indian,1688,Yes,Yes,3.1,263,It was an okay experience.
+Tasty Treats,Hyderabad,Italian,275,No,No,2.8,404,Nothing special but not bad either.
+Curry House,Chennai,Chinese,1251,No,No,1.8,38,Food quality was disappointing.
+Happy Meals,Hyderabad,Biryani,1822,No,No,3.3,155,Nothing special but not bad either.
+Golden Spoon,Chennai,Multi-cuisine,212,No,Yes,4.0,53,Staff was friendly and food quality was top notch.
+Curry House,Mumbai,Desserts,1264,No,No,3.7,204,Average taste and normal service.
+Golden Spoon,Delhi,Italian,1862,No,Yes,3.9,229,It was an okay experience.
+Happy Meals,Pune,North Indian,1241,Yes,No,1.5,265,Food quality was disappointing.
+Spice Garden,Bangalore,Biryani,1233,Yes,No,4.1,398,The food was amazing and service was excellent.
+Urban Bites,Chennai,Multi-cuisine,727,Yes,No,1.5,219,Not worth the price at all.
+Food Palace,Pune,South Indian,1937,Yes,Yes,4.7,118,Loved the ambience and the taste was fantastic.
+Spice Garden,Chennai,Italian,862,Yes,No,1.7,421,Very bad service and food was cold.
+Tasty Treats,Chennai,Biryani,337,No,Yes,4.4,40,"Highly recommended, great experience overall."
+Golden Spoon,Chennai,Biryani,326,Yes,Yes,2.6,160,Average taste and normal service.
+Street Feast,Bangalore,Fast Food,1635,No,Yes,2.5,443,Nothing special but not bad either.
+Tasty Treats,Delhi,North Indian,564,No,No,3.4,223,Average taste and normal service.
+Flavour Hub,Chennai,Fast Food,1582,No,No,1.7,433,Not worth the price at all.
+Curry House,Hyderabad,Fast Food,1970,Yes,Yes,1.7,308,Very bad service and food was cold.
+Urban Bites,Delhi,South Indian,1896,No,No,1.9,157,Very bad service and food was cold.
+Spice Garden,Chennai,Italian,1648,Yes,No,2.8,34,Decent place for casual dining.
+Street Feast,Hyderabad,Chinese,1527,Yes,No,2.3,22,Very bad service and food was cold.
+Spice Garden,Hyderabad,Multi-cuisine,1479,Yes,No,2.4,466,Very bad service and food was cold.
+Curry House,Pune,Fast Food,394,No,No,4.1,230,Loved the ambience and the taste was fantastic.
+Tasty Treats,Mumbai,Multi-cuisine,506,Yes,No,4.9,168,Loved the ambience and the taste was fantastic.
+Royal Dine,Pune,South Indian,1123,No,Yes,1.8,43,"Terrible experience, will not come again."
+Street Feast,Bangalore,South Indian,1476,No,Yes,4.8,116,"Highly recommended, great experience overall."
+Curry House,Hyderabad,Multi-cuisine,910,No,No,2.8,482,Decent place for casual dining.
+Food Palace,Chennai,South Indian,655,Yes,Yes,2.9,195,Nothing special but not bad either.
+Golden Spoon,Hyderabad,Italian,1366,No,Yes,4.3,13,Loved the ambience and the taste was fantastic.
+Food Palace,Mumbai,Biryani,1882,No,No,2.8,72,"Food was okay, service was average."
+Royal Dine,Mumbai,Chinese,1378,Yes,Yes,3.0,64,Decent place for casual dining.
+Urban Bites,Hyderabad,Desserts,1303,No,Yes,4.0,280,Staff was friendly and food quality was top notch.
+Golden Spoon,Bangalore,South Indian,1604,No,Yes,1.9,130,Not worth the price at all.
+Spice Garden,Bangalore,Desserts,515,Yes,Yes,3.8,116,Decent place for casual dining.
+Golden Spoon,Bangalore,North Indian,1684,No,Yes,3.8,85,Average taste and normal service.
+Royal Dine,Chennai,Italian,449,Yes,No,3.9,346,It was an okay experience.
+Food Palace,Hyderabad,South Indian,931,Yes,No,3.1,424,"Food was okay, service was average."
+Happy Meals,Pune,South Indian,750,No,No,3.1,180,Average taste and normal service.
+Tasty Treats,Hyderabad,South Indian,727,Yes,Yes,3.0,399,Average taste and normal service.
+Urban Bites,Mumbai,Desserts,1374,No,Yes,3.1,180,It was an okay experience.
+Curry House,Bangalore,Italian,1340,No,Yes,4.1,18,Staff was friendly and food quality was top notch.
+Street Feast,Mumbai,Multi-cuisine,1317,Yes,No,3.0,203,It was an okay experience.
+Street Feast,Mumbai,Biryani,1750,No,Yes,2.5,188,Decent place for casual dining.
+Royal Dine,Bangalore,South Indian,1870,No,No,3.1,494,Nothing special but not bad either.
+Urban Bites,Pune,Italian,1186,Yes,Yes,3.5,444,"Food was okay, service was average."
+Curry House,Pune,Italian,1338,Yes,Yes,3.3,76,It was an okay experience.
+Food Palace,Bangalore,Fast Food,402,Yes,Yes,2.4,357,Staff was rude and slow.
+Happy Meals,Mumbai,North Indian,1718,Yes,Yes,3.7,288,"Food was okay, service was average."
+Spice Garden,Bangalore,Desserts,1786,No,No,5.0,163,Loved the ambience and the taste was fantastic.
+Urban Bites,Mumbai,Biryani,908,Yes,No,3.0,215,Nothing special but not bad either.
+Golden Spoon,Pune,Italian,821,Yes,Yes,4.5,406,Staff was friendly and food quality was top notch.
+Tasty Treats,Hyderabad,North Indian,1767,No,Yes,3.0,85,Decent place for casual dining.
+Royal Dine,Mumbai,Chinese,550,No,No,3.7,41,It was an okay experience.
+Flavour Hub,Hyderabad,Fast Food,1436,No,No,3.8,429,Nothing special but not bad either.
+Curry House,Mumbai,Fast Food,1495,Yes,No,1.7,10,Staff was rude and slow.
+Curry House,Bangalore,North Indian,1876,No,No,2.9,50,Nothing special but not bad either.
+Urban Bites,Delhi,Italian,1954,No,Yes,2.4,310,"Terrible experience, will not come again."
+Curry House,Bangalore,Fast Food,1392,No,Yes,4.1,78,Staff was friendly and food quality was top notch.
+Golden Spoon,Delhi,Italian,1470,Yes,No,2.8,171,It was an okay experience.
+Spice Garden,Delhi,South Indian,1880,Yes,Yes,1.5,144,Food quality was disappointing.
+Happy Meals,Bangalore,North Indian,534,Yes,No,3.8,430,Decent place for casual dining.
+Street Feast,Hyderabad,South Indian,282,No,No,3.6,239,Average taste and normal service.
+Happy Meals,Pune,Biryani,1310,No,Yes,3.6,418,Decent place for casual dining.
+Tasty Treats,Pune,Chinese,1464,No,Yes,3.6,376,"Food was okay, service was average."
+Food Palace,Delhi,Desserts,630,Yes,Yes,3.3,415,Average taste and normal service.
+Happy Meals,Hyderabad,Fast Food,1229,Yes,No,4.3,99,The food was amazing and service was excellent.
+Flavour Hub,Bangalore,Chinese,1026,No,No,1.7,107,Not worth the price at all.
+Curry House,Mumbai,Chinese,699,No,No,2.8,350,Average taste and normal service.
+Happy Meals,Bangalore,Multi-cuisine,1213,Yes,No,3.5,73,Nothing special but not bad either.
+Street Feast,Hyderabad,Desserts,1113,Yes,No,3.8,348,Decent place for casual dining.
+Curry House,Delhi,Fast Food,673,No,Yes,2.2,338,Not worth the price at all.
+Golden Spoon,Delhi,South Indian,1383,No,Yes,4.3,394,Staff was friendly and food quality was top notch.
+Food Palace,Chennai,Biryani,1926,Yes,Yes,4.4,54,"Worth the money, will visit again."
+Spice Garden,Bangalore,North Indian,1105,Yes,Yes,1.5,263,Not worth the price at all.
+Food Palace,Mumbai,Biryani,1314,Yes,Yes,2.7,322,It was an okay experience.
+Food Palace,Chennai,Fast Food,1151,No,Yes,4.6,107,Staff was friendly and food quality was top notch.
+Tasty Treats,Hyderabad,Desserts,1273,No,Yes,2.1,228,Not worth the price at all.
+Happy Meals,Delhi,Italian,1514,Yes,No,4.4,202,Loved the ambience and the taste was fantastic.
+Spice Garden,Bangalore,Multi-cuisine,905,Yes,No,3.0,381,"Food was okay, service was average."
+Golden Spoon,Bangalore,North Indian,1594,No,Yes,3.2,86,Decent place for casual dining.
+Spice Garden,Mumbai,Fast Food,551,Yes,No,4.7,322,Staff was friendly and food quality was top notch.
+Curry House,Chennai,Chinese,454,No,No,2.6,433,"Food was okay, service was average."
+Urban Bites,Hyderabad,Italian,815,No,No,2.0,11,Very bad service and food was cold.
+Happy Meals,Delhi,North Indian,309,Yes,No,4.8,197,Staff was friendly and food quality was top notch.
+Curry House,Bangalore,Italian,1976,No,No,4.1,417,"Highly recommended, great experience overall."
+Street Feast,Mumbai,Multi-cuisine,220,Yes,Yes,2.2,223,Food quality was disappointing.
+Flavour Hub,Chennai,Biryani,1225,Yes,No,2.7,357,"Food was okay, service was average."
+Curry House,Chennai,Chinese,1456,No,Yes,2.6,106,It was an okay experience.
+Happy Meals,Chennai,Fast Food,939,No,Yes,4.0,483,The food was amazing and service was excellent.
+Urban Bites,Chennai,Desserts,1354,Yes,Yes,4.9,65,Loved the ambience and the taste was fantastic.
+Tasty Treats,Hyderabad,Desserts,1532,No,Yes,4.8,99,Staff was friendly and food quality was top notch.
+Happy Meals,Mumbai,Biryani,1258,Yes,Yes,2.4,471,Food quality was disappointing.
+Urban Bites,Mumbai,Multi-cuisine,436,Yes,Yes,3.3,26,"Food was okay, service was average."
+Happy Meals,Bangalore,Fast Food,936,Yes,No,3.8,329,Decent place for casual dining.
+Golden Spoon,Hyderabad,Biryani,1970,Yes,Yes,2.3,50,"Terrible experience, will not come again."
+Spice Garden,Delhi,Chinese,797,Yes,Yes,2.7,209,Average taste and normal service.
+Tasty Treats,Bangalore,Desserts,971,No,Yes,5.0,278,Staff was friendly and food quality was top notch.
+Curry House,Chennai,Italian,1112,No,No,3.9,358,Decent place for casual dining.
+Food Palace,Chennai,Biryani,218,No,Yes,1.5,99,"Terrible experience, will not come again."
+Food Palace,Bangalore,Multi-cuisine,1019,No,Yes,2.8,485,Nothing special but not bad either.
+Street Feast,Mumbai,Multi-cuisine,1684,No,Yes,2.9,336,Decent place for casual dining.
+Royal Dine,Chennai,Fast Food,1962,No,Yes,2.0,142,"Terrible experience, will not come again."
+Street Feast,Pune,Multi-cuisine,1381,Yes,Yes,3.0,310,Nothing special but not bad either.
+Royal Dine,Delhi,Fast Food,1729,Yes,Yes,3.1,104,Decent place for casual dining.
+Spice Garden,Pune,Italian,991,No,No,3.7,495,Decent place for casual dining.
+Happy Meals,Chennai,North Indian,1987,No,No,3.3,465,Decent place for casual dining.
+Golden Spoon,Chennai,Chinese,663,Yes,No,4.2,169,Loved the ambience and the taste was fantastic.
+Urban Bites,Bangalore,Fast Food,263,Yes,No,4.8,54,The food was amazing and service was excellent.
+Flavour Hub,Bangalore,Fast Food,933,Yes,Yes,1.7,20,Not worth the price at all.
+Royal Dine,Chennai,Fast Food,1514,Yes,No,2.3,330,"Terrible experience, will not come again."
+Street Feast,Chennai,North Indian,779,No,No,2.5,88,"Food was okay, service was average."
+Royal Dine,Delhi,Biryani,459,No,No,5.0,394,Staff was friendly and food quality was top notch.
+Golden Spoon,Delhi,Fast Food,796,Yes,No,4.4,74,The food was amazing and service was excellent.
+Urban Bites,Mumbai,Italian,795,Yes,No,4.1,202,Staff was friendly and food quality was top notch.
+Spice Garden,Pune,Italian,820,No,Yes,2.9,67,Nothing special but not bad either.
+Urban Bites,Delhi,South Indian,1914,Yes,No,2.4,407,Not worth the price at all.
+Happy Meals,Bangalore,South Indian,1053,Yes,No,3.9,72,"Food was okay, service was average."
+Street Feast,Pune,Italian,980,Yes,Yes,4.0,189,"Worth the money, will visit again."
+Curry House,Pune,North Indian,1124,Yes,Yes,4.6,295,Loved the ambience and the taste was fantastic.
+Food Palace,Pune,Desserts,1085,No,Yes,1.9,249,Very bad service and food was cold.
+Street Feast,Delhi,Multi-cuisine,1601,No,Yes,1.6,342,Very bad service and food was cold.
+Spice Garden,Hyderabad,Italian,417,Yes,Yes,3.2,315,"Food was okay, service was average."
+Street Feast,Hyderabad,Italian,1629,No,No,2.3,288,Very bad service and food was cold.
+Urban Bites,Pune,South Indian,223,Yes,Yes,2.9,163,Average taste and normal service.
+Golden Spoon,Pune,North Indian,988,No,No,3.9,258,Nothing special but not bad either.
+Happy Meals,Hyderabad,Fast Food,1846,Yes,Yes,2.9,17,Decent place for casual dining.
+Royal Dine,Pune,Fast Food,1763,Yes,Yes,2.9,11,Decent place for casual dining.
+Tasty Treats,Chennai,Biryani,310,Yes,No,3.4,153,Decent place for casual dining.
+Flavour Hub,Pune,South Indian,1202,Yes,No,2.7,192,"Food was okay, service was average."
+Street Feast,Chennai,Desserts,621,Yes,Yes,2.1,321,Not worth the price at all.
+Food Palace,Pune,Italian,1361,No,Yes,2.7,491,Decent place for casual dining.
+Curry House,Chennai,Biryani,817,Yes,No,3.5,274,Nothing special but not bad either.
+Royal Dine,Bangalore,Fast Food,1092,Yes,Yes,3.4,279,Decent place for casual dining.
+Flavour Hub,Chennai,South Indian,1287,No,Yes,2.1,379,Staff was rude and slow.
+Royal Dine,Delhi,Biryani,1222,No,No,2.4,138,Food quality was disappointing.
+Tasty Treats,Pune,North Indian,1364,No,Yes,4.8,126,"Highly recommended, great experience overall."
+Spice Garden,Hyderabad,Desserts,339,No,Yes,3.9,381,Average taste and normal service.
+Royal Dine,Hyderabad,Chinese,1430,Yes,No,4.2,196,Loved the ambience and the taste was fantastic.
+Street Feast,Delhi,Italian,772,No,Yes,3.5,369,Nothing special but not bad either.
+Spice Garden,Bangalore,Biryani,667,No,Yes,3.7,404,Decent place for casual dining.
+Royal Dine,Delhi,North Indian,1900,No,No,4.6,76,"Highly recommended, great experience overall."
+Flavour Hub,Hyderabad,Multi-cuisine,1276,No,Yes,3.0,343,Average taste and normal service.
+Flavour Hub,Hyderabad,Chinese,1047,No,No,4.9,155,"Worth the money, will visit again."
+Flavour Hub,Hyderabad,South Indian,1863,No,No,2.3,390,Food quality was disappointing.
+Food Palace,Delhi,North Indian,1500,Yes,Yes,2.8,362,Decent place for casual dining.
+Happy Meals,Bangalore,Chinese,870,Yes,No,3.6,108,"Food was okay, service was average."
+Spice Garden,Hyderabad,Fast Food,1790,Yes,No,3.4,387,It was an okay experience.
+Royal Dine,Chennai,Desserts,804,No,Yes,3.3,274,Decent place for casual dining.
+Curry House,Delhi,Biryani,1334,No,Yes,2.9,37,Decent place for casual dining.
+Street Feast,Pune,South Indian,1796,No,Yes,1.8,315,Not worth the price at all.
+Happy Meals,Hyderabad,Italian,899,No,Yes,4.5,285,"Highly recommended, great experience overall."
+Flavour Hub,Hyderabad,Biryani,1050,Yes,No,2.0,494,Very bad service and food was cold.
+Tasty Treats,Chennai,Fast Food,1966,Yes,Yes,2.5,71,Decent place for casual dining.
+Spice Garden,Pune,Biryani,1175,Yes,Yes,3.6,465,It was an okay experience.
+Urban Bites,Mumbai,Fast Food,582,Yes,No,3.3,428,"Food was okay, service was average."
+Golden Spoon,Bangalore,Multi-cuisine,710,Yes,No,4.8,222,Staff was friendly and food quality was top notch.
+Golden Spoon,Mumbai,Chinese,1574,No,No,3.8,47,Average taste and normal service.
+Food Palace,Bangalore,North Indian,1477,No,Yes,4.2,107,Staff was friendly and food quality was top notch.
+Food Palace,Delhi,Desserts,1847,No,No,2.0,349,Very bad service and food was cold.
+Spice Garden,Pune,Fast Food,363,Yes,No,4.8,102,The food was amazing and service was excellent.
+Urban Bites,Mumbai,Desserts,349,No,No,3.4,488,Average taste and normal service.
+Tasty Treats,Hyderabad,North Indian,424,Yes,Yes,2.4,153,Staff was rude and slow.
+Golden Spoon,Pune,South Indian,1622,No,Yes,2.2,330,Not worth the price at all.
+Urban Bites,Chennai,Chinese,623,Yes,Yes,3.4,307,Decent place for casual dining.
+Street Feast,Delhi,Chinese,1142,No,No,4.9,27,The food was amazing and service was excellent.
+Curry House,Bangalore,Chinese,462,No,No,2.7,50,Decent place for casual dining.
+Street Feast,Hyderabad,Biryani,310,No,Yes,3.7,79,Average taste and normal service.
+Curry House,Hyderabad,Italian,1543,Yes,No,2.5,323,Nothing special but not bad either.
+Flavour Hub,Bangalore,Chinese,1139,Yes,No,2.1,453,Very bad service and food was cold.
+Flavour Hub,Mumbai,Chinese,1646,No,Yes,3.5,141,It was an okay experience.
+Urban Bites,Bangalore,Italian,1833,No,No,1.8,295,"Terrible experience, will not come again."
+Golden Spoon,Bangalore,Biryani,1036,No,No,1.6,218,Very bad service and food was cold.
+Spice Garden,Mumbai,Italian,240,No,Yes,1.7,171,"Terrible experience, will not come again."
+Golden Spoon,Pune,Desserts,554,No,Yes,2.5,491,Average taste and normal service.
+Street Feast,Mumbai,Multi-cuisine,695,No,No,2.5,101,Decent place for casual dining.
+Golden Spoon,Bangalore,Fast Food,1464,Yes,No,3.8,386,Nothing special but not bad either.
+Happy Meals,Bangalore,Italian,1258,No,No,2.7,274,Decent place for casual dining.
+Golden Spoon,Mumbai,South Indian,1509,Yes,No,4.9,207,"Highly recommended, great experience overall."
+Urban Bites,Bangalore,North Indian,878,No,Yes,2.7,185,"Food was okay, service was average."
+Tasty Treats,Pune,Desserts,1269,Yes,No,3.4,361,"Food was okay, service was average."
+Happy Meals,Hyderabad,South Indian,1992,Yes,No,1.7,439,Very bad service and food was cold.
+Royal Dine,Chennai,Desserts,1144,Yes,No,3.2,279,Decent place for casual dining.
+Tasty Treats,Pune,Chinese,1094,Yes,Yes,4.6,161,Staff was friendly and food quality was top notch.
+Flavour Hub,Pune,Chinese,1010,No,Yes,3.0,406,Average taste and normal service.
+Tasty Treats,Hyderabad,South Indian,446,Yes,No,1.5,146,Very bad service and food was cold.
+Golden Spoon,Mumbai,Chinese,943,Yes,Yes,2.8,439,Average taste and normal service.
+Golden Spoon,Bangalore,Chinese,976,No,No,4.3,356,Loved the ambience and the taste was fantastic.
+Spice Garden,Hyderabad,Biryani,1437,Yes,No,2.1,128,Staff was rude and slow.
+Street Feast,Chennai,North Indian,1520,Yes,No,4.8,160,Staff was friendly and food quality was top notch.
+Urban Bites,Delhi,Multi-cuisine,1369,No,Yes,2.6,130,Average taste and normal service.
+Spice Garden,Delhi,Chinese,1764,Yes,No,2.7,494,It was an okay experience.
+Happy Meals,Hyderabad,Fast Food,1308,No,No,3.6,347,"Food was okay, service was average."
+Royal Dine,Mumbai,Italian,1850,No,No,3.6,483,Decent place for casual dining.
+Street Feast,Delhi,Fast Food,529,No,Yes,2.2,438,Food quality was disappointing.
+Street Feast,Mumbai,Desserts,1108,Yes,Yes,4.9,211,The food was amazing and service was excellent.
+Happy Meals,Pune,Desserts,888,Yes,No,4.4,124,"Worth the money, will visit again."
+Happy Meals,Chennai,Fast Food,516,Yes,Yes,2.5,309,Nothing special but not bad either.
+Flavour Hub,Mumbai,North Indian,1610,Yes,Yes,2.4,211,Food quality was disappointing.
+Street Feast,Mumbai,Chinese,1891,Yes,Yes,3.0,208,Nothing special but not bad either.
+Urban Bites,Delhi,Multi-cuisine,892,Yes,Yes,3.7,453,Decent place for casual dining.
+Curry House,Delhi,Biryani,1229,No,No,4.3,119,"Worth the money, will visit again."
+Street Feast,Hyderabad,Fast Food,1402,No,No,3.0,383,Nothing special but not bad either.
+Urban Bites,Hyderabad,Desserts,1388,Yes,No,4.1,120,The food was amazing and service was excellent.
+Curry House,Bangalore,Chinese,586,No,Yes,1.9,367,Staff was rude and slow.
+Urban Bites,Pune,Fast Food,1705,No,No,2.5,336,"Food was okay, service was average."
+Spice Garden,Chennai,Desserts,1092,Yes,Yes,3.2,296,"Food was okay, service was average."
+Street Feast,Delhi,Multi-cuisine,1191,Yes,Yes,3.0,225,It was an okay experience.
+Happy Meals,Delhi,Biryani,1144,Yes,No,2.2,15,Staff was rude and slow.
+Spice Garden,Mumbai,Fast Food,692,No,Yes,4.1,125,Loved the ambience and the taste was fantastic.
+Spice Garden,Delhi,North Indian,1112,Yes,No,2.8,41,Nothing special but not bad either.
+Curry House,Mumbai,Desserts,1940,Yes,No,3.3,101,Average taste and normal service.
+Street Feast,Mumbai,Desserts,1510,No,Yes,2.8,479,Average taste and normal service.
+Street Feast,Pune,Desserts,976,No,Yes,4.1,298,"Worth the money, will visit again."
+Spice Garden,Mumbai,Multi-cuisine,1201,Yes,No,3.6,395,Average taste and normal service.
+Street Feast,Pune,Biryani,886,Yes,Yes,4.5,163,"Highly recommended, great experience overall."
+Urban Bites,Chennai,Multi-cuisine,747,Yes,No,4.1,315,"Highly recommended, great experience overall."
+Royal Dine,Pune,Chinese,797,Yes,No,4.9,224,The food was amazing and service was excellent.
+Royal Dine,Pune,Chinese,675,No,Yes,3.2,364,Nothing special but not bad either.
+Food Palace,Hyderabad,Fast Food,1507,Yes,Yes,2.4,233,Staff was rude and slow.
+Royal Dine,Pune,North Indian,668,Yes,Yes,1.5,61,Not worth the price at all.
+Royal Dine,Delhi,South Indian,439,Yes,Yes,4.5,113,"Worth the money, will visit again."
+Golden Spoon,Hyderabad,Biryani,527,Yes,No,4.7,447,"Worth the money, will visit again."
+Flavour Hub,Hyderabad,Chinese,1001,No,Yes,1.7,381,Food quality was disappointing.
+Tasty Treats,Hyderabad,Biryani,1032,No,No,2.3,222,Not worth the price at all.
+Royal Dine,Chennai,Biryani,1834,Yes,No,2.0,64,Staff was rude and slow.
+Food Palace,Bangalore,Biryani,980,Yes,Yes,3.0,347,Decent place for casual dining.
+Flavour Hub,Delhi,Desserts,1470,Yes,Yes,2.0,474,Food quality was disappointing.
+Happy Meals,Mumbai,South Indian,598,Yes,No,3.7,241,Decent place for casual dining.
+Spice Garden,Mumbai,Chinese,1949,Yes,Yes,5.0,437,"Worth the money, will visit again."
+Tasty Treats,Pune,Chinese,1771,No,Yes,3.2,169,"Food was okay, service was average."
+Spice Garden,Chennai,Multi-cuisine,1937,No,No,3.8,199,Decent place for casual dining.
+Tasty Treats,Chennai,North Indian,339,No,No,3.3,492,It was an okay experience.
+Urban Bites,Pune,Fast Food,435,No,Yes,4.7,429,Loved the ambience and the taste was fantastic.
+Urban Bites,Mumbai,Chinese,706,Yes,Yes,2.7,294,"Food was okay, service was average."
+Royal Dine,Mumbai,Fast Food,290,No,Yes,2.8,259,Average taste and normal service.
+Flavour Hub,Hyderabad,Fast Food,1622,Yes,No,2.9,178,"Food was okay, service was average."
+Street Feast,Hyderabad,North Indian,1056,No,Yes,3.4,356,"Food was okay, service was average."
+Flavour Hub,Pune,Biryani,589,No,Yes,1.7,250,Not worth the price at all.
+Royal Dine,Hyderabad,Biryani,1834,Yes,No,2.1,299,Very bad service and food was cold.
+Urban Bites,Delhi,Fast Food,739,No,Yes,4.3,10,"Worth the money, will visit again."
+Curry House,Pune,Fast Food,1620,Yes,Yes,1.6,30,Not worth the price at all.
+Curry House,Delhi,Multi-cuisine,1751,Yes,Yes,4.2,200,Staff was friendly and food quality was top notch.
+Flavour Hub,Bangalore,Biryani,517,No,Yes,3.8,236,Average taste and normal service.
+Urban Bites,Bangalore,Fast Food,1963,No,Yes,4.3,490,Loved the ambience and the taste was fantastic.
+Urban Bites,Chennai,Desserts,1021,Yes,Yes,4.2,174,"Worth the money, will visit again."
+Urban Bites,Chennai,North Indian,1531,Yes,No,4.8,275,The food was amazing and service was excellent.
+Spice Garden,Hyderabad,Fast Food,441,No,No,3.3,149,Decent place for casual dining.
+Street Feast,Chennai,Italian,705,Yes,Yes,2.5,96,"Food was okay, service was average."
+Street Feast,Mumbai,Chinese,1032,Yes,No,2.4,257,Staff was rude and slow.
+Curry House,Delhi,North Indian,1679,Yes,No,2.2,275,Not worth the price at all.
+Royal Dine,Mumbai,Desserts,1952,Yes,Yes,3.8,301,Average taste and normal service.
+Royal Dine,Delhi,Desserts,1038,Yes,No,3.0,377,It was an okay experience.
+Urban Bites,Chennai,Fast Food,775,No,Yes,2.5,436,"Food was okay, service was average."
+Happy Meals,Hyderabad,Desserts,1069,No,No,3.4,257,Nothing special but not bad either.
+Tasty Treats,Bangalore,South Indian,594,Yes,No,3.7,361,It was an okay experience.
+Street Feast,Hyderabad,Desserts,1253,No,No,4.1,142,"Worth the money, will visit again."
+Curry House,Hyderabad,Desserts,1664,Yes,Yes,4.6,303,"Worth the money, will visit again."
+Flavour Hub,Bangalore,South Indian,271,No,Yes,3.0,263,Nothing special but not bad either.
+Curry House,Pune,Multi-cuisine,1376,No,Yes,2.7,359,"Food was okay, service was average."
+Flavour Hub,Chennai,Multi-cuisine,1312,No,No,4.3,231,Staff was friendly and food quality was top notch.
+Spice Garden,Pune,Italian,1911,No,No,2.1,19,Not worth the price at all.
+Spice Garden,Delhi,Fast Food,341,No,No,2.0,108,"Terrible experience, will not come again."
+Street Feast,Pune,Multi-cuisine,1208,Yes,No,3.8,260,Nothing special but not bad either.
+Flavour Hub,Chennai,South Indian,1939,No,Yes,4.8,279,Loved the ambience and the taste was fantastic.
+Golden Spoon,Chennai,Italian,504,No,No,1.7,106,Staff was rude and slow.
+Tasty Treats,Mumbai,Biryani,846,Yes,No,2.4,386,Food quality was disappointing.
+Urban Bites,Chennai,Fast Food,1895,No,No,2.0,497,Food quality was disappointing.
+Urban Bites,Pune,Desserts,457,No,No,4.8,132,The food was amazing and service was excellent.
+Spice Garden,Chennai,North Indian,1513,Yes,No,4.4,306,"Worth the money, will visit again."
+Spice Garden,Delhi,Chinese,1479,No,No,4.5,474,The food was amazing and service was excellent.
+Golden Spoon,Hyderabad,Chinese,908,Yes,No,2.2,253,Very bad service and food was cold.
+Tasty Treats,Bangalore,Chinese,1956,Yes,No,3.3,148,Average taste and normal service.
+Royal Dine,Hyderabad,Italian,1473,No,Yes,4.8,420,Staff was friendly and food quality was top notch.
+Spice Garden,Delhi,Fast Food,832,No,No,1.8,30,Very bad service and food was cold.
+Royal Dine,Chennai,South Indian,1011,No,No,2.5,229,Nothing special but not bad either.
+Street Feast,Mumbai,Fast Food,1214,Yes,No,3.0,181,"Food was okay, service was average."
+Happy Meals,Hyderabad,South Indian,1086,Yes,No,4.1,84,"Worth the money, will visit again."
+Tasty Treats,Bangalore,South Indian,1918,No,Yes,3.2,196,"Food was okay, service was average."
+Flavour Hub,Mumbai,Italian,1186,Yes,Yes,2.3,298,Very bad service and food was cold.
+Curry House,Chennai,Multi-cuisine,206,No,No,3.1,162,Nothing special but not bad either.
+Golden Spoon,Delhi,Fast Food,228,Yes,No,3.7,255,Average taste and normal service.
+Urban Bites,Mumbai,Biryani,1589,Yes,No,3.3,100,Decent place for casual dining.
+Flavour Hub,Mumbai,Desserts,1224,Yes,Yes,1.7,11,Not worth the price at all.
+Curry House,Pune,Desserts,861,Yes,No,3.2,485,It was an okay experience.
+Food Palace,Hyderabad,North Indian,1305,Yes,No,3.0,37,"Food was okay, service was average."
+Happy Meals,Chennai,Fast Food,324,No,Yes,2.2,329,Very bad service and food was cold.
+Happy Meals,Delhi,Chinese,892,No,Yes,4.7,236,"Worth the money, will visit again."
+Urban Bites,Chennai,Italian,1250,Yes,Yes,3.5,352,Decent place for casual dining.
+Urban Bites,Chennai,South Indian,340,Yes,Yes,4.7,157,Loved the ambience and the taste was fantastic.
+Flavour Hub,Chennai,Multi-cuisine,512,Yes,Yes,4.9,45,"Highly recommended, great experience overall."
+Urban Bites,Mumbai,Biryani,1942,Yes,Yes,2.2,216,Staff was rude and slow.
+Urban Bites,Chennai,North Indian,288,Yes,No,4.7,344,The food was amazing and service was excellent.
+Happy Meals,Pune,Multi-cuisine,1042,No,No,3.8,274,Nothing special but not bad either.
+Royal Dine,Chennai,Multi-cuisine,1185,No,Yes,2.3,432,"Terrible experience, will not come again."
+Food Palace,Hyderabad,Biryani,1601,Yes,Yes,4.8,57,"Worth the money, will visit again."
+Food Palace,Delhi,Desserts,1679,No,No,4.6,458,"Worth the money, will visit again."
+Happy Meals,Bangalore,Italian,1710,No,No,3.4,261,Average taste and normal service.
+Street Feast,Hyderabad,Fast Food,1208,No,No,4.2,98,Loved the ambience and the taste was fantastic.
+Flavour Hub,Bangalore,North Indian,1557,No,No,2.8,248,"Food was okay, service was average."
+Royal Dine,Chennai,South Indian,1259,No,Yes,4.5,360,"Highly recommended, great experience overall."
+Street Feast,Pune,Chinese,438,Yes,Yes,1.7,222,Staff was rude and slow.
+Spice Garden,Pune,North Indian,943,Yes,No,2.7,486,It was an okay experience.
+Royal Dine,Mumbai,Chinese,1824,No,Yes,2.2,280,"Terrible experience, will not come again."
+Curry House,Pune,Italian,224,No,Yes,3.3,269,"Food was okay, service was average."
+Urban Bites,Pune,Chinese,1493,Yes,No,3.0,156,Decent place for casual dining.
+Happy Meals,Mumbai,Desserts,1760,Yes,No,3.2,310,Decent place for casual dining.
+Food Palace,Pune,Desserts,1392,No,No,3.9,335,Nothing special but not bad either.
+Tasty Treats,Pune,South Indian,1456,Yes,No,4.5,27,Staff was friendly and food quality was top notch.
+Flavour Hub,Pune,Desserts,601,Yes,No,3.1,232,It was an okay experience.
+Spice Garden,Mumbai,Multi-cuisine,242,Yes,No,4.1,228,"Worth the money, will visit again."
+Street Feast,Mumbai,Biryani,947,No,No,2.5,332,Nothing special but not bad either.
+Urban Bites,Chennai,Desserts,1986,No,No,3.5,177,"Food was okay, service was average."
+Flavour Hub,Delhi,South Indian,890,Yes,Yes,5.0,475,Loved the ambience and the taste was fantastic.
+Urban Bites,Hyderabad,Desserts,1887,Yes,No,3.7,87,"Food was okay, service was average."
+Royal Dine,Delhi,South Indian,293,No,Yes,2.5,367,Average taste and normal service.
+Happy Meals,Mumbai,Italian,1253,No,No,2.8,13,"Food was okay, service was average."
+Food Palace,Bangalore,South Indian,1996,Yes,Yes,3.9,165,Nothing special but not bad either.
+Royal Dine,Bangalore,South Indian,1128,Yes,Yes,4.6,175,The food was amazing and service was excellent.
+Street Feast,Pune,Chinese,357,Yes,No,4.0,310,Loved the ambience and the taste was fantastic.
+Spice Garden,Chennai,South Indian,952,No,No,3.5,215,Decent place for casual dining.
+Flavour Hub,Pune,Biryani,655,Yes,Yes,1.9,196,Food quality was disappointing.
+Flavour Hub,Bangalore,Chinese,1862,Yes,No,4.8,113,"Worth the money, will visit again."
+Urban Bites,Pune,Desserts,1759,Yes,No,4.9,88,Loved the ambience and the taste was fantastic.
+Food Palace,Chennai,Italian,513,Yes,No,3.5,314,"Food was okay, service was average."
+Urban Bites,Delhi,Biryani,1238,Yes,No,4.5,474,"Worth the money, will visit again."
+Golden Spoon,Delhi,Chinese,1604,Yes,No,1.6,425,Food quality was disappointing.
+Golden Spoon,Delhi,Chinese,1105,Yes,No,3.8,184,Average taste and normal service.
+Urban Bites,Chennai,Multi-cuisine,1417,No,Yes,1.5,304,Not worth the price at all.
+Flavour Hub,Mumbai,Chinese,758,Yes,Yes,2.2,66,Not worth the price at all.
+Urban Bites,Mumbai,South Indian,1608,No,No,4.7,328,The food was amazing and service was excellent.
+Curry House,Bangalore,Italian,841,No,Yes,3.6,261,"Food was okay, service was average."
+Curry House,Pune,South Indian,514,No,No,4.0,206,The food was amazing and service was excellent.
+Urban Bites,Hyderabad,Fast Food,1263,Yes,Yes,2.5,281,Nothing special but not bad either.
+Golden Spoon,Mumbai,South Indian,1460,No,Yes,2.9,124,Nothing special but not bad either.
+Golden Spoon,Hyderabad,Fast Food,1431,Yes,No,4.9,395,"Highly recommended, great experience overall."
+Spice Garden,Pune,Italian,897,No,Yes,2.0,345,Food quality was disappointing.
+Food Palace,Pune,Italian,861,Yes,Yes,2.9,56,Average taste and normal service.
+Tasty Treats,Bangalore,Multi-cuisine,1034,Yes,No,2.9,394,Nothing special but not bad either.
+Spice Garden,Delhi,South Indian,406,Yes,No,2.3,326,"Terrible experience, will not come again."
+Royal Dine,Pune,Biryani,1496,No,Yes,1.8,392,"Terrible experience, will not come again."
